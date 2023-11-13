@@ -737,8 +737,12 @@ button:focus {
     border-color: #4D5AE5;
 }
 
+.input-fields-textarea {
+    margin-bottom: 16px;
+}
+
 .checkbox-form {
-    margin-bottom: 16px
+    margin-bottom: 24px;
 }
 
 .checkbox-label {
